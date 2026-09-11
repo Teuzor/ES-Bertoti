@@ -12,7 +12,7 @@ Atividade 3 - Trade-Off
 Código rápido é complexo e difícil de manter; código limpo é fácil de evoluir, mas adiciona camadas que deixam mais lento.
 
 3. Velocidade de Entrega e Dívida Técnica
-Entregar rápido gera dívida técnica ao pular testes. O produto chega cedo, mas bugs e dificuldade de evolução vêm depois.
+Entregar rápido gera dívida técnica ao pular testes. O produto chega cedo, mas bugs e dificuldade de evolução vêm depois. 
 
 5. Custo vs Latência/Disponibilidade
 Arquitetura global reduz latência e aumenta disponibilidade, mas é cara. Reduzir custos centralizando sacrifica performance ou resiliência.
